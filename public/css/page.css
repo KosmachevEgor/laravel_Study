@@ -1,0 +1,13 @@
+body{
+    background-color: #150e17;
+    font-size: large;
+    color: white;
+}
+header {
+    background-color: #2d2d31;
+}
+.post {
+    border: 2px solid #5c5f69;
+    border-radius: 25px;
+    padding: 15px 6px 5px 15px;
+}
